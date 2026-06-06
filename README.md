@@ -1,5 +1,5 @@
-#read only final_model_p1rich03_surface2d10.ipynb,read other files only to go deeper but they are not needed and may mess up your understanding as i recreated them after complete analysis.
-
+**#read only final_model_p1rich03_surface2d10.ipynb
+**
 ## How To Run
 
 Install dependencies:
