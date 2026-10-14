@@ -150,3 +150,9 @@ Example ID:
 
 
 
+
+## Additional project materials
+
+- [Expiry-specialist search script](expiry_specialist_search.py)
+- [Imputation work summary](imputation_work_summary.md)
+- [Finclub open project brief](Finclub_Open_Project_2.pdf)
